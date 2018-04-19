@@ -12,7 +12,7 @@ ___
 ### Sobre a Vaga
 
 - Empresa: Procob S.A
-- Cargo: Desenvolvedor front-end pleno
+- Cargo: Desenvolvedor
 - Remuneração: R$ 4.500,00
 - Benefícios: Plano de Saúde (Unimed), Plano Odontológico (Dentaluni), Seguro de vida, Vale Transporte, Vale Refeição (R$ 19,00 dia), 14º Salário;
 - Vaga presencial - Curitiba-PR;
