@@ -7,13 +7,13 @@
 ___
 
 
-## Processo seletivo para vaga desenvolvedor front-end pleno
+## Processo seletivo para vaga desenvolvedor front-end
 
 ### Sobre a Vaga
 
 - Empresa: Procob S.A
 - Cargo: Desenvolvedor front-end pleno
-- Remuneração: R$ 3.100,00
+- Remuneração: R$ 4.500,00
 - Benefícios: Plano de Saúde (Unimed), Plano Odontológico (Dentaluni), Seguro de vida, Vale Transporte, Vale Refeição (R$ 19,00 dia), 14º Salário;
 - Vaga presencial - Curitiba-PR;
 
@@ -28,6 +28,7 @@ Requisitos para a vaga:
 - HTML5
 - CSS
 - Integração com RESTful API
+- GIT
 
 ### Desejáveis
 
